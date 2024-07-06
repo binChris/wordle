@@ -189,7 +189,7 @@ fn print_word_list(words: &[(String, bool)], filter: &Filter, max_words: usize) 
         .collect();
     println!();
     if matches.is_empty() {
-        colored_print(Color::Red, "No matches");
+        colored_print(Color::Red, "No matches\n");
     } else {
         println!("Matches:");
         for m in &matches {
