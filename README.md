@@ -36,6 +36,6 @@ Note: Watch out for black characters that also have a green match - these must n
 
 ## What the app does not do
 
-This is a generic solver that contains (a lot) more words that the original [NYT wordle](https://www.nytimes.com/games/wordle) solution list. You can of courst supply your own list of solutions. It also does not remove past solutions from the filtered list.
+This is a generic solver that contains (a lot) more words that the original [NYT wordle](https://www.nytimes.com/games/wordle) solution list. You can of course supply your own list of solutions. The solver also does not remove past solutions from the filtered list.
 
 That said, you still should be able to solve almost any wordle puzzle, even if your active vocabulary does not contain words like ['parer'](https://wordlearchive.com/454).
